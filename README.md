@@ -27,5 +27,3 @@
     <a href="https://www.twitch.tv/coralinaxz" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
     <a href="https://wa.me/message/Z6DGN4YIL2XXB1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   </div>
-  
-  ![Snake animation](https://github.com/carol-moreira/carol-moreira/blob/output/github-contribution-grid-snake.svg)
