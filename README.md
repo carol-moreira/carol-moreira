@@ -1,4 +1,4 @@
-### Opa, tudo bom? 💚
+### Oi, tudo bom? 💚
 
 <div align="center">
   <a href="https://github.com/carol-moreira">
