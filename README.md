@@ -5,7 +5,7 @@
 
  💚 Web Developer and Designer <br>
  🧃 I'm currently working on Agência Next4 as SEO Leader and Web Developer <br>
- 🧩 I post about my projects and knowledge on my Instagram on [host.ca](https://instagram.com/host.ca) <br>
+ 🧩 I post more about my projects and knowledge on [host.ca](https://instagram.com/host.ca) <br>
  📗 We can talk about **HTML, CSS, JavaScript, React, UX/UI** <br>
  ☘️ Read more about me at -
 
@@ -20,7 +20,6 @@
 
 
 <p align="center">
-<img width="390px" src="https://github-readme-stats.vercel.app/api?username=carol-moreira&show_icons=true&theme=graywhite" alt="carol-moerira's stats"/>
 <img width="390px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carol-moreira&layout=compact&theme=graywhite" alt="carol-moreira's most languages"/>
 </p>
     
