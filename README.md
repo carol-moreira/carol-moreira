@@ -1,29 +1,39 @@
-### Oi, tudo bom? 💚
+<img align="right" height="590" src="https://gist.githubusercontent.com/carol-moreira/3b488bf7b9458afec240514a13498dd0/raw/96ce9937b7cc039bbc26b8de1cc94c120fca7afa/githubcard.svg"/>
+<h2 align="left">Hi, I'm Carol!</h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=carol-moreira&color=brightgreen" alt="profile-views" /> </p>
 
-<div align="center">
-  <a href="https://github.com/carol-moreira">
-  <img height="157em" src="https://github-readme-stats.vercel.app/api?username=carol-moreira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <br>
-  <img height="107em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carol-moreira&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
-  <div style="display: inline_block"><br>
-    <img align="center" alt="carol-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-    <img align="center" alt="carol-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-    <img align="center" alt="carol-bitbucket" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="carol-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-    <img align="center" alt="carol-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-    <img align="center" alt="carol-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-    <img align="center" alt="carol-wordpress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
-    <img align="right" alt="carol-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/811425848737267733/989340352739672074/carolgif.gif">
-</div>
-  
-  ##
-  
-  <div> 
-    <a href="https://instagram.com/host.ca" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href = "mailto:carolinasrmoreira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/carolina-moreira1502/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://www.twitch.tv/coralinaxz" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-    <a href="https://wa.me/message/Z6DGN4YIL2XXB1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  </div>
+
+ 💚 Web Developer and Designer <br>
+ 🧃 I'm currently working on Agência Next4 as SEO Leader and Web Developer <br>
+ 🧩 I post about my projects and knowledge on my Instagram on [host.ca](https://instagram.com/host.ca) <br>
+ 📗 We can talk about **HTML, CSS, JavaScript, React, UX/UI** <br>
+ ☘️ Read more about me at -
+
+## Skills 
+
+![HTML](https://img.shields.io/badge/-HTML-FAF9F6?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-FAF9F6?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-FAF9F6?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-FAF9F6?style=flat&logo=react)&nbsp;
+![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-FAF9F6?style=flat&logo=adobephotoshop)&nbsp;
+
+
+
+<p align="center">
+<img width="390px" src="https://github-readme-stats.vercel.app/api?username=carol-moreira&show_icons=true&theme=graywhite" alt="carol-moerira's stats"/>
+<img width="390px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carol-moreira&layout=compact&theme=graywhite" alt="carol-moreira's most languages"/>
+</p>
+    
+## Socials
+
+<p align="left" style="background:white">
+<a href="https://instagram.com/host.ca" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-instagram-FAF9F6?style=flat&logo=instagram" alt="instagram/host.ca"/>
+  <a/>
+    <a href="(https://www.linkedin.com/in/carolina-moreira1502/)" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-linkedin-FAF9F6?style=flat&logo=linkedin&logoColor=2F43B4" alt="linkedin"/>
+  <a/>
+      <a href="https://wa.me/message/Z6DGN4YIL2XXB1" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-whatsapp-FAF9F6?style=flat&logo=whatsapp" alt="whatsapp"/>
+  <a/>
+</p>
