@@ -1,8 +1,9 @@
-<img align="right" height="590" src="https://gist.githubusercontent.com/carol-moreira/3b488bf7b9458afec240514a13498dd0/raw/96ce9937b7cc039bbc26b8de1cc94c120fca7afa/githubcard.svg"/>
-<h2 align="left">Oi! Sou a Carol.<h2>
+<h2 align="left">Oi! Sou a Carol.</h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=carol-moreira&color=brightgreen" alt="profile-views" /> </p>
 
  💚 Programadora <br>
  🧃 Atualmente trabalho com SEO e Power BI
+
 
 ## Skills 
 
@@ -19,7 +20,7 @@
 <img width="390px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carol-moreira&layout=compact&theme=graywhite" alt="carol-moreira's most languages"/>
 </p>
     
-## Redes
+## Contatos
 
 <p align="left" style="background:white">
 <a href="https://instagram.com/host.ca" target="_blank">
