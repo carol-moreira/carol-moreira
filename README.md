@@ -17,7 +17,7 @@
 
 
 <p align="center">
-<img width="390px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carol-moreira&layout=compact&theme=graywhite" alt="carol-moreira's most languages"/>
+<img width="390px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carol-moreira&layout=compact&theme=graywhite" alt="carol-moreira's most used languages"/>
 </p>
     
 ## Contatos
